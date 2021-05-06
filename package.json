@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "core-js": "^3.8.3",
+    "core-js": "^3.11.3",
     "jest": "^24.1.0",
     "firebase": "^8.2.7",
     "nuxt": "^2.14.12"
